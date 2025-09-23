@@ -1,0 +1,23 @@
+✅ O que já está implementado:
+
+Definições claras de todos os pinos conforme sua documentação
+Mapeamento completo dos 4 semáforos (A, B, C, D)
+Configuração das portas (PORTD, PORTB, PORTC)
+Configuração básica do Timer1
+Estados iniciais definidos (S1, S2, S3 para começar)
+Funções para aplicar estados dos LEDs
+Estrutura limpa e bem comentada
+
+📋 Próximos passos incrementais:
+
+Implementar a interrupção do Timer1 (máquina de estados)
+Adicionar mais estados (S4 até S9)
+Implementar display de 7 segmentos
+Adicionar comunicação UART
+
+Vantagens desta abordagem:
+
+✅ Código modular e bem estruturado
+✅ Fácil de testar cada parte
+✅ Fácil de debugar
+✅ Fácil de expandir
