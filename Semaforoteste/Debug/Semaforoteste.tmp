@@ -1,0 +1,39 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328"</DEVICE>
+ <WORKING_DIR>C:\Users\marco\OneDrive\햞ea de Trabalho\codigo_Atmel\Semaforoteste\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\marco\OneDrive\햞ea de Trabalho\codigo_Atmel\Semaforoteste\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\marco\OneDrive\햞ea de Trabalho\codigo_Atmel\Semaforoteste\Debug\Semaforoteste.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Semaforoteste.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Semaforoteste.map</FILE>
+  <FILE>Semaforoteste.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <reset_handler><FILE>C:\Users\marco\OneDrive\햞ea de Trabalho\codigo_Atmel\Semaforoteste\main.asm</FILE><LINE>33</LINE></reset_handler>
+  <timer1_compa_isr><FILE>C:\Users\marco\OneDrive\햞ea de Trabalho\codigo_Atmel\Semaforoteste\main.asm</FILE><LINE>112</LINE></timer1_compa_isr>
+  <setup_ports><FILE>C:\Users\marco\OneDrive\햞ea de Trabalho\codigo_Atmel\Semaforoteste\main.asm</FILE><LINE>52</LINE></setup_ports>
+  <setup_timer1><FILE>C:\Users\marco\OneDrive\햞ea de Trabalho\codigo_Atmel\Semaforoteste\main.asm</FILE><LINE>65</LINE></setup_timer1>
+  <apply_state><FILE>C:\Users\marco\OneDrive\햞ea de Trabalho\codigo_Atmel\Semaforoteste\main.asm</FILE><LINE>82</LINE></apply_state>
+  <main_loop><FILE>C:\Users\marco\OneDrive\햞ea de Trabalho\codigo_Atmel\Semaforoteste\main.asm</FILE><LINE>48</LINE></main_loop>
+  <apply_s1><FILE>C:\Users\marco\OneDrive\햞ea de Trabalho\codigo_Atmel\Semaforoteste\main.asm</FILE><LINE>91</LINE></apply_s1>
+  <apply_s2><FILE>C:\Users\marco\OneDrive\햞ea de Trabalho\codigo_Atmel\Semaforoteste\main.asm</FILE><LINE>98</LINE></apply_s2>
+  <apply_s3><FILE>C:\Users\marco\OneDrive\햞ea de Trabalho\codigo_Atmel\Semaforoteste\main.asm</FILE><LINE>105</LINE></apply_s3>
+  <timer_exit><FILE>C:\Users\marco\OneDrive\햞ea de Trabalho\codigo_Atmel\Semaforoteste\main.asm</FILE><LINE>145</LINE></timer_exit>
+  <to_s2><FILE>C:\Users\marco\OneDrive\햞ea de Trabalho\codigo_Atmel\Semaforoteste\main.asm</FILE><LINE>128</LINE></to_s2>
+  <to_s3><FILE>C:\Users\marco\OneDrive\햞ea de Trabalho\codigo_Atmel\Semaforoteste\main.asm</FILE><LINE>134</LINE></to_s3>
+  <to_s1><FILE>C:\Users\marco\OneDrive\햞ea de Trabalho\codigo_Atmel\Semaforoteste\main.asm</FILE><LINE>140</LINE></to_s1>
+ </LABELS>
+</ASSEMBLER_INFO>
